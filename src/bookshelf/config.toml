@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+# baseURL = "http://example.org/"
+baseURL = "https://cognitiaclaeves.github.io/bookshelf/"
 languageCode = "en-us"
 title = "Jae's Book Reviews"
